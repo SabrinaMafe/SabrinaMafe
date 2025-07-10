@@ -26,6 +26,7 @@
 
 * `todo-api`: API simples para gerenciamento de tarefas com CRUD completo
 * `jwt-auth-api`: Backend profissional para autenticação de usuários com Spring Security e JWT
+* DecoderProject - API Gateway: API Gateway moderno usando Spring Cloud Gateway e Eureka para registro e descoberta de serviços, com rotas configuradas e integração entre múltiplos serviços
 * `weather-api`: API que consome dados de clima via API externa (em breve)
 
 ---
